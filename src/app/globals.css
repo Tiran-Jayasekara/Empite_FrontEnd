@@ -2,7 +2,46 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+.custom-margin-left-141 {
+  margin-left: 141px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Muli:wght@400&display=swap');
+
+.font-muli {
+  font-family: 'Muli', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+.font-playfair-bold {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400&display=swap');
+
+.font-space-grotesk {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+
+.font-playfair-semibold {
+  font-family: 'Playfair Display', serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+
+.font-playfair-semibold {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600; /* SemiBold weight */
+}
+
+
+
+
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
@@ -30,4 +69,4 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}
+} */
