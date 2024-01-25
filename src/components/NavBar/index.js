@@ -50,7 +50,7 @@ const NavBar = () => {
         <>
             <nav className="bg-white border-gray-200 w-full mb-8">
                 <div className="flex w-full items-center justify-between mx-auto">
-                    <img src="assests/companyLogo.png" className="lg:h-14 lg:w-28 md:h-12 md:w-auto w-12 lg:ml-36 md:ml-20 ml-10 mt-5" alt="Empite Logo" />
+                    <img src="assests/companyLogo/companyLogo.png" className="lg:h-12 lg:w-auto md:h-10 md:w-auto w-12 lg:ml-36 md:ml-20 ml-10 mt-5" alt="Empite Logo" />
 
                     {/* This Botton is Used for Mobile Nav Bar */}
                     <button
