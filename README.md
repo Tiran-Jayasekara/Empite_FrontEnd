@@ -9,6 +9,15 @@
 ![Screenshot 2024-01-25 122656](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/1c84cf3a-8574-4855-b11c-ca02704e811b)
 ![Screenshot 2024-01-25 122708](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/81b1c7d3-005f-442c-821e-a8046a6582a4)
 
+![WhatsApp Image 2024-01-27 at 19 42 13_965b3fe3](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/73dc138c-4338-4bb4-8584-872f2bd3b014)
+![WhatsApp Image 2024-01-27 at 19 42 16_5b7a52b2](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/e4531a89-be05-4ca4-ade8-3ae8cee4861e)
+![WhatsApp Image 2024-01-27 at 19 42 16_c91c173b](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/6d9e27cc-3616-4b01-b1b3-a64d608283a8)
+![WhatsApp Image 2024-01-27 at 19 42 17_ca90faff](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/e0354c95-b9f1-41af-af03-57c138120dbb)
+![WhatsApp Image 2024-01-27 at 19 42 17_ea21fb95](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/db44268b-81e8-433e-8035-30a0da6ec560)
+![WhatsApp Image 2024-01-27 at 19 42 18_dfb53f8e](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/37bd38f5-6f23-4249-b522-d552ecea6439)
+![WhatsApp Image 2024-01-27 at 19 42 18_4a252094](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/9965ec4a-58ed-474c-b1d4-b85c7e947489)
+![WhatsApp Image 2024-01-27 at 19 42 19_35420ef2](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/67f5176b-94b8-49d7-baf5-12cedac9c789)
+![WhatsApp Image 2024-01-27 at 19 42 19_f371ecf3](https://github.com/Tiran-Jayasekara/Empite_FrontEnd/assets/70306643/b3893824-2f74-46e4-8c91-e284b26a90f4)
 
 
 
